@@ -1,0 +1,20 @@
+{
+  "kind": "singleType",
+  "collectionName": "resumes",
+  "info": {
+    "singularName": "resume",
+    "pluralName": "resumes",
+    "displayName": "Resume"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "workExperience": {
+      "type": "component",
+      "repeatable": true,
+      "component": "testing.test-component"
+    }
+  }
+}

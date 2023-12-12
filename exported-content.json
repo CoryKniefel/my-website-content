@@ -1,0 +1,48 @@
+{
+  "skills": {
+    "data": [
+      {
+        "id": 1,
+        "attributes": {
+          "skill": "Core Java",
+          "years": 5,
+          "level": "Advanced",
+          "createdAt": "2023-12-05T00:18:26.528Z",
+          "updatedAt": "2023-12-05T00:18:30.980Z",
+          "publishedAt": "2023-12-05T00:18:30.978Z"
+        }
+      },
+      {
+        "id": 2,
+        "attributes": {
+          "skill": "JavaScript",
+          "years": 3,
+          "level": "Intermediate",
+          "createdAt": "2023-12-05T00:18:57.592Z",
+          "updatedAt": "2023-12-05T00:18:58.526Z",
+          "publishedAt": "2023-12-05T00:18:58.525Z"
+        }
+      }
+    ],
+    "meta": {
+      "pagination": {
+        "page": 1,
+        "pageSize": 25,
+        "pageCount": 1,
+        "total": 2
+      }
+    }
+  },
+  "home-page": {
+    "data": {
+      "id": 1,
+      "attributes": {
+        "valueStatement": "I offer a unique combination of technical skills, project management, and agile methodologies to deliver high-quality solutions across the full stack of development. I have a PMP and a CSM certification that demonstrate my ability to plan, execute, and lead complex projects in a collaborative and structured way.\n",
+        "createdAt": "2023-12-04T19:57:08.700Z",
+        "updatedAt": "2023-12-04T21:05:02.502Z",
+        "publishedAt": "2023-12-04T21:05:02.500Z"
+      }
+    },
+    "meta": {}
+  }
+}

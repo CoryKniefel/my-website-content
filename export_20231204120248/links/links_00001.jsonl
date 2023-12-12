@@ -1,0 +1,9 @@
+{"kind":"relation.basic","relation":"manyToOne","left":{"type":"plugin::users-permissions.permission","field":"role","ref":1},"right":{"type":"plugin::users-permissions.role","field":"permissions","ref":1,"pos":1}}
+{"kind":"relation.basic","relation":"manyToOne","left":{"type":"plugin::users-permissions.permission","field":"role","ref":2},"right":{"type":"plugin::users-permissions.role","field":"permissions","ref":1,"pos":2}}
+{"kind":"relation.basic","relation":"manyToOne","left":{"type":"plugin::users-permissions.permission","field":"role","ref":3},"right":{"type":"plugin::users-permissions.role","field":"permissions","ref":2,"pos":1}}
+{"kind":"relation.basic","relation":"manyToOne","left":{"type":"plugin::users-permissions.permission","field":"role","ref":4},"right":{"type":"plugin::users-permissions.role","field":"permissions","ref":2,"pos":2}}
+{"kind":"relation.basic","relation":"manyToOne","left":{"type":"plugin::users-permissions.permission","field":"role","ref":5},"right":{"type":"plugin::users-permissions.role","field":"permissions","ref":2,"pos":3}}
+{"kind":"relation.basic","relation":"manyToOne","left":{"type":"plugin::users-permissions.permission","field":"role","ref":6},"right":{"type":"plugin::users-permissions.role","field":"permissions","ref":2,"pos":4}}
+{"kind":"relation.basic","relation":"manyToOne","left":{"type":"plugin::users-permissions.permission","field":"role","ref":7},"right":{"type":"plugin::users-permissions.role","field":"permissions","ref":2,"pos":5}}
+{"kind":"relation.basic","relation":"manyToOne","left":{"type":"plugin::users-permissions.permission","field":"role","ref":8},"right":{"type":"plugin::users-permissions.role","field":"permissions","ref":2,"pos":6}}
+{"kind":"relation.basic","relation":"manyToOne","left":{"type":"plugin::users-permissions.permission","field":"role","ref":9},"right":{"type":"plugin::users-permissions.role","field":"permissions","ref":2,"pos":7}}

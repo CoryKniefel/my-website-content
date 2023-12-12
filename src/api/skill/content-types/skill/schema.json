@@ -1,0 +1,31 @@
+{
+  "kind": "collectionType",
+  "collectionName": "skills",
+  "info": {
+    "singularName": "skill",
+    "pluralName": "skills",
+    "displayName": "Skill"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "skill": {
+      "type": "string"
+    },
+    "years": {
+      "type": "decimal"
+    },
+    "level": {
+      "type": "enumeration",
+      "enum": [
+        "Fundamental",
+        "Basic",
+        "Intermediate",
+        "Advanced",
+        "Expert"
+      ]
+    }
+  }
+}

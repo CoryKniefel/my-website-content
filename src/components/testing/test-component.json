@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_testing_test_components",
+  "info": {
+    "displayName": "Work Experience",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "CompanyName": {
+      "type": "string"
+    },
+    "Location": {
+      "type": "string"
+    },
+    "Start": {
+      "type": "date"
+    },
+    "End": {
+      "type": "date"
+    },
+    "Accomplishments": {
+      "type": "blocks"
+    }
+  }
+}

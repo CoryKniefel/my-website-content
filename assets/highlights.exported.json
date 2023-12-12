@@ -1,0 +1,189 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "attributes": {
+        "title": "Full-Stack Engineer",
+        "items": [
+          {
+            "type": "list",
+            "format": "unordered",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "API development in Java and NodeJS"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Database skills with SQL and NoSQL"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Front-end apps with Angular "
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "createdAt": "2023-12-07T01:37:28.655Z",
+        "updatedAt": "2023-12-07T01:37:29.905Z",
+        "publishedAt": "2023-12-07T01:37:29.903Z"
+      }
+    },
+    {
+      "id": 2,
+      "attributes": {
+        "title": "Eye for Quality",
+        "items": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "With a background in services marketing, I know that customer satisfaction is key to long term success. As former QA Automation Engineer, unit and integration testing are the keys to having confidence in the work that I do."
+              }
+            ]
+          },
+          {
+            "type": "list",
+            "format": "unordered",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Unit Testing"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Integration Testing"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "E2E Testing with Selenium"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "createdAt": "2023-12-07T17:26:49.353Z",
+        "updatedAt": "2023-12-07T20:00:13.537Z",
+        "publishedAt": "2023-12-07T17:26:50.184Z"
+      }
+    },
+    {
+      "id": 3,
+      "attributes": {
+        "title": "Agile Minded",
+        "items": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Agile Teams work in many different ways, but the focus is always on creating value for the customer. Everything we do should eventually create value for the customer. With this in mind, it doesn't matter if we follow Scrum precisely or instead use Kanban. However, it's usually a good idea to scope out work before starting, creating estimates, and most importantly having clear Acceptance Criteria. I can help your team pick processes that align with the Agile manifesto and help them stay on track. "
+              }
+            ]
+          }
+        ],
+        "createdAt": "2023-12-07T20:07:45.903Z",
+        "updatedAt": "2023-12-07T20:07:47.500Z",
+        "publishedAt": "2023-12-07T20:07:47.499Z"
+      }
+    },
+    {
+      "id": 4,
+      "attributes": {
+        "title": "Creative",
+        "items": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "I am a creative problem solver at heart. I pull from my multi-discipline work experiences and come up with solutions that others might not see. For example, I once came up with a way to validate code changes that affected the style of more than 250 pages of a large WordPress site in less than a weeks time. The solution involved programmatically loading each page, checking for the presence of content types,  taking a snapshot and comparing the layout to the expected. This gave the client confidence to release changes sooner than they expected. "
+              }
+            ]
+          }
+        ],
+        "createdAt": "2023-12-07T20:15:15.745Z",
+        "updatedAt": "2023-12-07T20:20:47.614Z",
+        "publishedAt": "2023-12-07T20:20:47.613Z"
+      }
+    },
+    {
+      "id": 5,
+      "attributes": {
+        "title": "Multi-Disciplined ",
+        "items": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Software engineering wasn't my first career, or even my first role once I began working for software companies. Before I got into software, I worked in the service industry and then renewable energy contracting in marketing and technical sales roles. I moved from technical sales to a client services for a SaaS company, and from there I have worked as a BSA, QA Engineer and finally Software Engineer. "
+              }
+            ]
+          }
+        ],
+        "createdAt": "2023-12-07T20:26:35.101Z",
+        "updatedAt": "2023-12-07T20:29:02.465Z",
+        "publishedAt": "2023-12-07T20:29:02.464Z"
+      }
+    },
+    {
+      "id": 6,
+      "attributes": {
+        "title": "Lifelong Learner",
+        "items": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "I've had the Growth Mindset before that was a common term. One benefit attending PSU's School of Business is they teach you this is just the beginning of the learning adventure, and that we would have to dig into whatever industry we end up in. This is the perfect mindset for jobs they rely heavily on technology that changes often, as they do in software engineering. "
+              }
+            ]
+          }
+        ],
+        "createdAt": "2023-12-07T20:34:35.868Z",
+        "updatedAt": "2023-12-07T20:34:36.457Z",
+        "publishedAt": "2023-12-07T20:34:36.457Z"
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 1,
+      "total": 6
+    }
+  }
+}
